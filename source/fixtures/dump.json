@@ -1,0 +1,35 @@
+[
+{
+  "model": "webapp.todo",
+  "pk": 1,
+  "fields": {
+    "title": "Домашнее задание",
+    "description": "Сделать домашнее задание",
+    "detailed_description": "Сделать домашнее задание в пятницу до 18:00",
+    "status": "in progress",
+    "completion_date": "2023-02-17"
+  }
+},
+{
+  "model": "webapp.todo",
+  "pk": 2,
+  "fields": {
+    "title": "Парикмахерская",
+    "description": "сходить подстричься",
+    "detailed_description": "Записаться в салон около Меги на субботу",
+    "status": "new",
+    "completion_date": "2023-02-18"
+  }
+},
+{
+  "model": "webapp.todo",
+  "pk": 3,
+  "fields": {
+    "title": "Продукты",
+    "description": "Купить продукты",
+    "detailed_description": "Сходить в супермаркет, купить продукты",
+    "status": "new",
+    "completion_date": "2023-02-18"
+  }
+}
+]
